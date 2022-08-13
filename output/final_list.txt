@@ -372,3 +372,4 @@ a.b2b.t08-sit.callsign.com
 get.callsign.com
 vault.callsign.com
 cr-auth.callsign.com
+register.callsign.com
